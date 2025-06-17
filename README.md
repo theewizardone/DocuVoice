@@ -7,7 +7,6 @@ This project is a **real-world, serverless web application** built on AWS that a
 * Convert the document's text into **MP3 audio**
 * Automatically **email the generated audio file** to the user
 
-🎥 **Watch the Full YouTube Tutorial**: [PDF to Audio App with AWS (YouTube)](https://youtu.be/SFiujWEqNWw)
 
 ---
 
@@ -120,8 +119,8 @@ These should be set in the Lambda configuration:
 
 ## 🥻 Author
 
-**Kobina Nokoe**
-📧 [sagarinokoeaws1@gmail.com](mailto:sagarinokoeaws1@gmail.com)
+**Alfonce Morara**
+📧 [alfoncemorara412@gmail.com](mailto:alfoncemorara412@gmail.com)
 
 ---
 
